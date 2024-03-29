@@ -1,0 +1,1 @@
+# Calculate-number-of-rentals-avg-rating-sql
